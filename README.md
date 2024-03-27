@@ -36,5 +36,3 @@ This Vagrantfile sets up a virtual machine (VM) for MariaDB, a popular open-sour
 ## Notes
 - Make sure to adjust resource allocation (CPU, memory) based on your system requirements.
 - Customize the `mariadb_setup.sh` script according to your specific MariaDB setup needs.
-
-Feel free to modify this `Vagrantfile` and accompanying configurations to suit your requirements. If you encounter any issues or have suggestions for improvements, please feel free to open an issue or submit a pull request. Happy coding!
